@@ -1,0 +1,269 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: POCDocFX
+  name: POCDocFX
+  href: api/POCDocFX.html
+  commentId: N:POCDocFX
+  fullName: POCDocFX
+  nameWithType: POCDocFX
+- uid: POCDocFX.Controllers
+  name: POCDocFX.Controllers
+  href: api/POCDocFX.Controllers.html
+  commentId: N:POCDocFX.Controllers
+  fullName: POCDocFX.Controllers
+  nameWithType: POCDocFX.Controllers
+- uid: POCDocFX.Controllers.WeatherForecastController
+  name: WeatherForecastController
+  href: api/POCDocFX.Controllers.WeatherForecastController.html
+  commentId: T:POCDocFX.Controllers.WeatherForecastController
+  fullName: POCDocFX.Controllers.WeatherForecastController
+  nameWithType: WeatherForecastController
+- uid: POCDocFX.Controllers.WeatherForecastController.#ctor(ILogger{POCDocFX.Controllers.WeatherForecastController})
+  name: WeatherForecastController(ILogger<WeatherForecastController>)
+  href: api/POCDocFX.Controllers.WeatherForecastController.html#POCDocFX_Controllers_WeatherForecastController__ctor_ILogger_POCDocFX_Controllers_WeatherForecastController__
+  commentId: M:POCDocFX.Controllers.WeatherForecastController.#ctor(ILogger{POCDocFX.Controllers.WeatherForecastController})
+  name.vb: WeatherForecastController(ILogger(Of WeatherForecastController))
+  fullName: POCDocFX.Controllers.WeatherForecastController.WeatherForecastController(ILogger<POCDocFX.Controllers.WeatherForecastController>)
+  fullName.vb: POCDocFX.Controllers.WeatherForecastController.WeatherForecastController(ILogger(Of POCDocFX.Controllers.WeatherForecastController))
+  nameWithType: WeatherForecastController.WeatherForecastController(ILogger<WeatherForecastController>)
+  nameWithType.vb: WeatherForecastController.WeatherForecastController(ILogger(Of WeatherForecastController))
+- uid: POCDocFX.Controllers.WeatherForecastController.#ctor*
+  name: WeatherForecastController
+  href: api/POCDocFX.Controllers.WeatherForecastController.html#POCDocFX_Controllers_WeatherForecastController__ctor_
+  commentId: Overload:POCDocFX.Controllers.WeatherForecastController.#ctor
+  isSpec: "True"
+  fullName: POCDocFX.Controllers.WeatherForecastController.WeatherForecastController
+  nameWithType: WeatherForecastController.WeatherForecastController
+- uid: POCDocFX.Controllers.WeatherForecastController.Get
+  name: Get()
+  href: api/POCDocFX.Controllers.WeatherForecastController.html#POCDocFX_Controllers_WeatherForecastController_Get
+  commentId: M:POCDocFX.Controllers.WeatherForecastController.Get
+  fullName: POCDocFX.Controllers.WeatherForecastController.Get()
+  nameWithType: WeatherForecastController.Get()
+- uid: POCDocFX.Controllers.WeatherForecastController.Get*
+  name: Get
+  href: api/POCDocFX.Controllers.WeatherForecastController.html#POCDocFX_Controllers_WeatherForecastController_Get_
+  commentId: Overload:POCDocFX.Controllers.WeatherForecastController.Get
+  isSpec: "True"
+  fullName: POCDocFX.Controllers.WeatherForecastController.Get
+  nameWithType: WeatherForecastController.Get
+- uid: POCDocFX.MyClass
+  name: MyClass
+  href: api/POCDocFX.MyClass.html
+  commentId: T:POCDocFX.MyClass
+  fullName: POCDocFX.MyClass
+  nameWithType: MyClass
+- uid: POCDocFX.MyClass.#ctor
+  name: MyClass()
+  href: api/POCDocFX.MyClass.html#POCDocFX_MyClass__ctor
+  commentId: M:POCDocFX.MyClass.#ctor
+  fullName: POCDocFX.MyClass.MyClass()
+  nameWithType: MyClass.MyClass()
+- uid: POCDocFX.MyClass.#ctor(System.Int32)
+  name: MyClass(Int32)
+  href: api/POCDocFX.MyClass.html#POCDocFX_MyClass__ctor_System_Int32_
+  commentId: M:POCDocFX.MyClass.#ctor(System.Int32)
+  fullName: POCDocFX.MyClass.MyClass(System.Int32)
+  nameWithType: MyClass.MyClass(Int32)
+- uid: POCDocFX.MyClass.#ctor*
+  name: MyClass
+  href: api/POCDocFX.MyClass.html#POCDocFX_MyClass__ctor_
+  commentId: Overload:POCDocFX.MyClass.#ctor
+  isSpec: "True"
+  fullName: POCDocFX.MyClass.MyClass
+  nameWithType: MyClass.MyClass
+- uid: POCDocFX.MyClass.anotherMethod(System.Int16[],System.Int32[0:,0:])
+  name: anotherMethod(Int16[], Int32[,])
+  href: api/POCDocFX.MyClass.html#POCDocFX_MyClass_anotherMethod_System_Int16___System_Int32_0__0___
+  commentId: M:POCDocFX.MyClass.anotherMethod(System.Int16[],System.Int32[0:,0:])
+  name.vb: anotherMethod(Int16(), Int32(,))
+  fullName: POCDocFX.MyClass.anotherMethod(System.Int16[], System.Int32[,])
+  fullName.vb: POCDocFX.MyClass.anotherMethod(System.Int16(), System.Int32(,))
+  nameWithType: MyClass.anotherMethod(Int16[], Int32[,])
+  nameWithType.vb: MyClass.anotherMethod(Int16(), Int32(,))
+- uid: POCDocFX.MyClass.anotherMethod*
+  name: anotherMethod
+  href: api/POCDocFX.MyClass.html#POCDocFX_MyClass_anotherMethod_
+  commentId: Overload:POCDocFX.MyClass.anotherMethod
+  isSpec: "True"
+  fullName: POCDocFX.MyClass.anotherMethod
+  nameWithType: MyClass.anotherMethod
+- uid: POCDocFX.MyClass.Del
+  name: MyClass.Del
+  href: api/POCDocFX.MyClass.Del.html
+  commentId: T:POCDocFX.MyClass.Del
+  fullName: POCDocFX.MyClass.Del
+  nameWithType: MyClass.Del
+- uid: POCDocFX.MyClass.func
+  name: func()
+  href: api/POCDocFX.MyClass.html#POCDocFX_MyClass_func
+  commentId: M:POCDocFX.MyClass.func
+  fullName: POCDocFX.MyClass.func()
+  nameWithType: MyClass.func()
+- uid: POCDocFX.MyClass.func*
+  name: func
+  href: api/POCDocFX.MyClass.html#POCDocFX_MyClass_func_
+  commentId: Overload:POCDocFX.MyClass.func
+  isSpec: "True"
+  fullName: POCDocFX.MyClass.func
+  nameWithType: MyClass.func
+- uid: POCDocFX.MyClass.Item(System.String)
+  name: Item[String]
+  href: api/POCDocFX.MyClass.html#POCDocFX_MyClass_Item_System_String_
+  commentId: P:POCDocFX.MyClass.Item(System.String)
+  name.vb: Item(String)
+  fullName: POCDocFX.MyClass.Item[System.String]
+  fullName.vb: POCDocFX.MyClass.Item(System.String)
+  nameWithType: MyClass.Item[String]
+  nameWithType.vb: MyClass.Item(String)
+- uid: POCDocFX.MyClass.Item*
+  name: Item
+  href: api/POCDocFX.MyClass.html#POCDocFX_MyClass_Item_
+  commentId: Overload:POCDocFX.MyClass.Item
+  isSpec: "True"
+  fullName: POCDocFX.MyClass.Item
+  nameWithType: MyClass.Item
+- uid: POCDocFX.MyClass.message
+  name: message
+  href: api/POCDocFX.MyClass.html#POCDocFX_MyClass_message
+  commentId: F:POCDocFX.MyClass.message
+  fullName: POCDocFX.MyClass.message
+  nameWithType: MyClass.message
+- uid: POCDocFX.MyClass.Nested
+  name: MyClass.Nested
+  href: api/POCDocFX.MyClass.Nested.html
+  commentId: T:POCDocFX.MyClass.Nested
+  fullName: POCDocFX.MyClass.Nested
+  nameWithType: MyClass.Nested
+- uid: POCDocFX.MyClass.OnHappened
+  name: OnHappened
+  href: api/POCDocFX.MyClass.html#POCDocFX_MyClass_OnHappened
+  commentId: E:POCDocFX.MyClass.OnHappened
+  fullName: POCDocFX.MyClass.OnHappened
+  nameWithType: MyClass.OnHappened
+- uid: POCDocFX.MyClass.op_Addition(POCDocFX.MyClass,POCDocFX.MyClass)
+  name: Addition(MyClass, MyClass)
+  href: api/POCDocFX.MyClass.html#POCDocFX_MyClass_op_Addition_POCDocFX_MyClass_POCDocFX_MyClass_
+  commentId: M:POCDocFX.MyClass.op_Addition(POCDocFX.MyClass,POCDocFX.MyClass)
+  fullName: POCDocFX.MyClass.Addition(POCDocFX.MyClass, POCDocFX.MyClass)
+  nameWithType: MyClass.Addition(MyClass, MyClass)
+- uid: POCDocFX.MyClass.op_Addition*
+  name: Addition
+  href: api/POCDocFX.MyClass.html#POCDocFX_MyClass_op_Addition_
+  commentId: Overload:POCDocFX.MyClass.op_Addition
+  isSpec: "True"
+  fullName: POCDocFX.MyClass.Addition
+  nameWithType: MyClass.Addition
+- uid: POCDocFX.MyClass.op_Explicit(POCDocFX.MyClass)~System.Int32
+  name: Explicit(MyClass to Int32)
+  href: api/POCDocFX.MyClass.html#POCDocFX_MyClass_op_Explicit_POCDocFX_MyClass__System_Int32
+  commentId: M:POCDocFX.MyClass.op_Explicit(POCDocFX.MyClass)~System.Int32
+  name.vb: Narrowing(MyClass to Int32)
+  fullName: POCDocFX.MyClass.Explicit(POCDocFX.MyClass to System.Int32)
+  fullName.vb: POCDocFX.MyClass.Narrowing(POCDocFX.MyClass to System.Int32)
+  nameWithType: MyClass.Explicit(MyClass to Int32)
+  nameWithType.vb: MyClass.Narrowing(MyClass to Int32)
+- uid: POCDocFX.MyClass.op_Explicit*
+  name: Explicit
+  href: api/POCDocFX.MyClass.html#POCDocFX_MyClass_op_Explicit_
+  commentId: Overload:POCDocFX.MyClass.op_Explicit
+  isSpec: "True"
+  name.vb: Narrowing
+  fullName: POCDocFX.MyClass.Explicit
+  fullName.vb: POCDocFX.MyClass.Narrowing
+  nameWithType: MyClass.Explicit
+  nameWithType.vb: MyClass.Narrowing
+- uid: POCDocFX.MyClass.PI
+  name: PI
+  href: api/POCDocFX.MyClass.html#POCDocFX_MyClass_PI
+  commentId: F:POCDocFX.MyClass.PI
+  fullName: POCDocFX.MyClass.PI
+  nameWithType: MyClass.PI
+- uid: POCDocFX.MyClass.prop
+  name: prop
+  href: api/POCDocFX.MyClass.html#POCDocFX_MyClass_prop
+  commentId: P:POCDocFX.MyClass.prop
+  fullName: POCDocFX.MyClass.prop
+  nameWithType: MyClass.prop
+- uid: POCDocFX.MyClass.prop*
+  name: prop
+  href: api/POCDocFX.MyClass.html#POCDocFX_MyClass_prop_
+  commentId: Overload:POCDocFX.MyClass.prop
+  isSpec: "True"
+  fullName: POCDocFX.MyClass.prop
+  nameWithType: MyClass.prop
+- uid: POCDocFX.MyClass.someMethod(System.String,System.Int32@,System.String)
+  name: someMethod(String, ref Int32, String)
+  href: api/POCDocFX.MyClass.html#POCDocFX_MyClass_someMethod_System_String_System_Int32__System_String_
+  commentId: M:POCDocFX.MyClass.someMethod(System.String,System.Int32@,System.String)
+  name.vb: someMethod(String, ByRef Int32, String)
+  fullName: POCDocFX.MyClass.someMethod(System.String, ref System.Int32, System.String)
+  fullName.vb: POCDocFX.MyClass.someMethod(System.String, ByRef System.Int32, System.String)
+  nameWithType: MyClass.someMethod(String, ref Int32, String)
+  nameWithType.vb: MyClass.someMethod(String, ByRef Int32, String)
+- uid: POCDocFX.MyClass.someMethod*
+  name: someMethod
+  href: api/POCDocFX.MyClass.html#POCDocFX_MyClass_someMethod_
+  commentId: Overload:POCDocFX.MyClass.someMethod
+  isSpec: "True"
+  fullName: POCDocFX.MyClass.someMethod
+  nameWithType: MyClass.someMethod
+- uid: POCDocFX.WeatherForecast
+  name: WeatherForecast
+  href: api/POCDocFX.WeatherForecast.html
+  commentId: T:POCDocFX.WeatherForecast
+  fullName: POCDocFX.WeatherForecast
+  nameWithType: WeatherForecast
+- uid: POCDocFX.WeatherForecast.Date
+  name: Date
+  href: api/POCDocFX.WeatherForecast.html#POCDocFX_WeatherForecast_Date
+  commentId: P:POCDocFX.WeatherForecast.Date
+  fullName: POCDocFX.WeatherForecast.Date
+  nameWithType: WeatherForecast.Date
+- uid: POCDocFX.WeatherForecast.Date*
+  name: Date
+  href: api/POCDocFX.WeatherForecast.html#POCDocFX_WeatherForecast_Date_
+  commentId: Overload:POCDocFX.WeatherForecast.Date
+  isSpec: "True"
+  fullName: POCDocFX.WeatherForecast.Date
+  nameWithType: WeatherForecast.Date
+- uid: POCDocFX.WeatherForecast.Summary
+  name: Summary
+  href: api/POCDocFX.WeatherForecast.html#POCDocFX_WeatherForecast_Summary
+  commentId: P:POCDocFX.WeatherForecast.Summary
+  fullName: POCDocFX.WeatherForecast.Summary
+  nameWithType: WeatherForecast.Summary
+- uid: POCDocFX.WeatherForecast.Summary*
+  name: Summary
+  href: api/POCDocFX.WeatherForecast.html#POCDocFX_WeatherForecast_Summary_
+  commentId: Overload:POCDocFX.WeatherForecast.Summary
+  isSpec: "True"
+  fullName: POCDocFX.WeatherForecast.Summary
+  nameWithType: WeatherForecast.Summary
+- uid: POCDocFX.WeatherForecast.TemperatureC
+  name: TemperatureC
+  href: api/POCDocFX.WeatherForecast.html#POCDocFX_WeatherForecast_TemperatureC
+  commentId: P:POCDocFX.WeatherForecast.TemperatureC
+  fullName: POCDocFX.WeatherForecast.TemperatureC
+  nameWithType: WeatherForecast.TemperatureC
+- uid: POCDocFX.WeatherForecast.TemperatureC*
+  name: TemperatureC
+  href: api/POCDocFX.WeatherForecast.html#POCDocFX_WeatherForecast_TemperatureC_
+  commentId: Overload:POCDocFX.WeatherForecast.TemperatureC
+  isSpec: "True"
+  fullName: POCDocFX.WeatherForecast.TemperatureC
+  nameWithType: WeatherForecast.TemperatureC
+- uid: POCDocFX.WeatherForecast.TemperatureF
+  name: TemperatureF
+  href: api/POCDocFX.WeatherForecast.html#POCDocFX_WeatherForecast_TemperatureF
+  commentId: P:POCDocFX.WeatherForecast.TemperatureF
+  fullName: POCDocFX.WeatherForecast.TemperatureF
+  nameWithType: WeatherForecast.TemperatureF
+- uid: POCDocFX.WeatherForecast.TemperatureF*
+  name: TemperatureF
+  href: api/POCDocFX.WeatherForecast.html#POCDocFX_WeatherForecast_TemperatureF_
+  commentId: Overload:POCDocFX.WeatherForecast.TemperatureF
+  isSpec: "True"
+  fullName: POCDocFX.WeatherForecast.TemperatureF
+  nameWithType: WeatherForecast.TemperatureF
